@@ -1,0 +1,1 @@
+This program asks for how many students and asks for their scores. Pointer manipulation was also used in the program. The C programming language was used. This was my output for an assignment for Sharp IT training.
